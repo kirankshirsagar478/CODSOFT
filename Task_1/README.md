@@ -1,0 +1,22 @@
+# CODSOFT
+# TASK 1: 
+# Statement: Build a simple chatbot that responds to user inputs based on predefined rules. Use if-else statements or pattern matching techniques to identify user queries and provide appropriate responses. This will give you a basic understanding of natural language processing and conversation flow.
+
+# python_programming_mastermind_game
+MASTERMIND GAME
+
+Two players play the game against each other; let’s assume Player 1 and Player 2.
+
+Player 1 plays first by setting a multi-digit number.
+
+Player 2 now tries his first attempt at guessing the number.
+
+If Player 2 succeeds in his first attempt (despite odds which are highly unlikely) he wins the game and is crowned Mastermind! If not, then Player 1 hints by revealing which digits or numbers Player 2 got correct.
+
+The game continues till Player 2 eventually is able to guess the number entirely.
+
+Now, Player 2 gets to set the number and Player 1 plays the part of guessing the number.
+
+If Player 1 is able to guess the number within a lesser number of tries than Player 2 took, then Player 1 wins the game and is crowned Mastermind.
+
+If not, then Player 2 wins the game. 
